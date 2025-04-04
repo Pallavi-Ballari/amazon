@@ -1,0 +1,86 @@
+[33mcommit ce305beac652f2ba35112f4c32d8e8c6de92a935[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mstage[m[33m)[m
+Author: devopstraningblr <devopstrainingblr@gmail.com>
+Date:   Sun Mar 30 03:58:43 2025 +0000
+
+    Updated..
+
+[33mcommit 6b1274e9b70efd79c2c83d536603f612e983747e[m[33m ([m[1;31mamazon/stage[m[33m, [m[1;31mamazon/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 42941dc f44c03c
+Author: devopstraningblr <devopstrainingblr@gmail.com>
+Date:   Wed Mar 26 17:27:07 2025 +0000
+
+    merge conflits resolved..
+
+[33mcommit f44c03c278b9f7356445a61baa6410f6187d45ec[m
+Author: devopstraningblr <devopstrainingblr@gmail.com>
+Date:   Wed Mar 26 17:17:27 2025 +0000
+
+    Updated..
+
+[33mcommit 42941dc8147bba0fb6b045b9d49a323a27f4cffe[m
+Author: devopstraningblr <devopstrainingblr@gmail.com>
+Date:   Wed Mar 26 17:14:40 2025 +0000
+
+    Updated in master branch
+
+[33mcommit 26393990775759e8520744ce745276162adcdd13[m
+Author: devopstraningblr <devopstrainingblr@gmail.com>
+Date:   Wed Mar 26 17:04:39 2025 +0000
+
+    updated deployment script
+
+[33mcommit 1c48d225d1f0846d83db2561f59a8a3c8231c820[m
+Author: devopstraningblr <devopstrainingblr@gmail.com>
+Date:   Wed Mar 26 16:48:10 2025 +0000
+
+    added git ignore file..
+
+[33mcommit c1548138d860bd33c3c03e6d11026006f8a4de32[m
+Author: devopstraningblr <devopstrainingblr@gmail.com>
+Date:   Wed Mar 26 16:30:09 2025 +0000
+
+    Updated..
+
+[33mcommit fd4ef606bbe45b62b014b36709a6fc73d21e13a8[m
+Author: devopstraningblr <devopstrainingblr@gmail.com>
+Date:   Wed Mar 26 16:26:52 2025 +0000
+
+    Updated employee detaols..
+
+[33mcommit 0f33fd98fae12e8c556f08bddf6e5955cfa14724[m
+Author: devopstraningblr <devopstrainingblr@gmail.com>
+Date:   Wed Mar 26 16:17:03 2025 +0000
+
+    Reverted..Revert  "Updated.."
+    
+    This reverts commit 421c961a578cd11421185ae9638bc18a6ce6f48c.
+
+[33mcommit 421c961a578cd11421185ae9638bc18a6ce6f48c[m
+Author: devopstraningblr <devopstrainingblr@gmail.com>
+Date:   Wed Mar 26 16:10:01 2025 +0000
+
+    Updated..
+
+[33mcommit 9b69fd94ee1f4c4d610fad3c2440fd15fd293cb9[m
+Author: devopstraningblr <devopstrainingblr@gmail.com>
+Date:   Tue Mar 25 17:54:54 2025 +0000
+
+    added deployment script..
+
+[33mcommit 19e21813fdfaf936b32b404e04de92db5fbf3e73[m
+Author: devopstraningblr <devopstrainingblr@gmail.com>
+Date:   Tue Mar 25 17:50:10 2025 +0000
+
+    updated..
+
+[33mcommit 84056491dd82a9f71d8e3765a917d8effb1fd632[m
+Author: devopstraningblr <devopstrainingblr@gmail.com>
+Date:   Tue Mar 25 17:13:59 2025 +0000
+
+    Added Employee details logic
+
+[33mcommit dc21241c19dcd2e6a56dc390e4d62d5bca49c131[m
+Author: devopstraningblr <devopstrainingblr@gmail.com>
+Date:   Tue Mar 25 17:12:13 2025 +0000
+
+    First commit
